@@ -12,7 +12,7 @@ import sigpy.mri.app as app
 
 import h5py
 
-file_name = 'fastmri_data/file_brain_AXT2_205_2050058.h5' 
+file_name = 'file_brain_AXT2_205_2050058.h5' 
 
 hf = h5py.File(file_name)
 
