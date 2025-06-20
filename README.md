@@ -2,6 +2,9 @@
 
 - environment.yaml file should allow for creating the environment to reproduce the results
 
+- to replicate the results, please download the raw Fast MRI data used in the tutorial from:
+https://www.dropbox.com/scl/fi/9ag9tj6oeci1x6uxaq6s4/file_brain_AXT2_205_2050058.h5?rlkey=xmr8o0xlzffjxsg604yup7vvw&dl=0
+
 ## Overview
 This script demonstrates the use of the SigPy library for performing SENSE (Sensitivity Encoding) 
 reconstruction as well compressed sensing alongside a simple gradient descent method for comparison.
