@@ -1,4 +1,4 @@
-- this readme file accompanies the python script, script_sigpy_sense_wavelet_R4_uniform.py, as part of the TBME image reconstruction tutorial
+- this readme file accompanies the python script, script_sigpy_sense_wavelet_R4_uniform.py, as part of an image reconstruction tutorial
 
 - environment.yaml file should allow for creating the environment to reproduce the results
 
