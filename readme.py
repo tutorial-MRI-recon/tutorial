@@ -1,4 +1,4 @@
-## readme file script_sigpy_sense_wavelet_R4_uniform.py, to accompany the TBME image reconstruction tutorial
+## readme file script_sigpy_sense_wavelet_R4_uniform.py, to accompany an image reconstruction tutorial
 
 # environment.yaml file should allow for creating the environment to reproduce the results
 
@@ -20,4 +20,3 @@
 # - Ensure you have the required libraries installed.
 # - Run the script in an environment with access to the required libraries
 #   -> having installed jupyter will allow for running each cell individually
-
