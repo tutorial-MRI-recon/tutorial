@@ -1,5 +1,9 @@
 ## MRI reconstruction tutorial
 
+![Alt text](figure/logo.png?raw=true "MRI Reconstruction Tutorial Logo")
+
+---
+
 This repository contains code, data references, and documentation for the **MRI Reconstruction Tutorial** accompanying the review paper:
 **"A Tutorial on MRI Reconstruction: From Modern Methods to Clinical Implications"**.
 
@@ -53,11 +57,11 @@ Each section in the tutorial builds progressively on previous concepts. The note
 
 ## Installation
 
-We recommend using a virtual environment. Install dependencies using .yaml file:
+We recommend using a virtual environment. Install dependencies using .yaml file for each method:
 
 ```bash
-git clone https://github.com/yourusername/mri-reconstruction-tutorial.git
-cd mri-reconstruction-tutorial/path_to_each_method
+git clone https://github.com/tutorial-MRI-recon/tutorial.git
+cd tutorial/path_to_each_method
 conda env create -f environment.yaml
 conda activate name_of_env
 ```
