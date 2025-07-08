@@ -20,8 +20,8 @@
 #   r_C       : Target rank for low-rank approximation of k-space patches.
 
 # Reference:
-#   Haldar JP, Zhuo J. "P-LORAKS: Low-rank modeling of local k-space
-#   neighborhoods with phase constraints for calibrationless parallel MRI."
+#   Haldar JP, Zhuo J. "P-LORAKS: Low-rank modeling of local k-space 
+#   neighborhoods with parallel imaging data."
 #   Magnetic Resonance in Medicine. 2016;75(4):1499-1514.
 
 # =============================================================================
