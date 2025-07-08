@@ -14,6 +14,10 @@ Both scripts reconstruct high-quality images from undersampled multi-coil k-spac
 
 ## Requirements
 - detailed in the yaml file
+- or, install dependencies using
+```bash
+pip install numpy scipy matplotlib
+```
 
 ## Usage
 - P-LORAKS (Calibrationless Reconstruction)
